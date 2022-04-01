@@ -2,7 +2,7 @@
 
 Hello, my name is Eryc — I'm a curious person, passionate about learning, especially about how things work, and how people think. I've been working in marketing and tech for the past 7 years, and just recently started to explore blockchain technologies and their future possibilities.
 
-☞ **I can design layouts** with great typography and layout skills. 
+☞ **I can design** layouts with great UX, typography, and layout skills. 
 
 ☞ **I can also code** HTML, CSS, and some Javascript — I prefer vanilla, my favorite ice cream flavor, after pistachio. 
 
