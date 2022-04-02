@@ -11,7 +11,7 @@ Hello, my name is Eryc — I'm a curious person, passionate about learning, espe
 ---
 
 | Current Projects |      |
-|:--------------------|:------------------------|
+|:-----------------------|:------------------------|
 |📼 FOLIO ‘22 ![Coming Soon](https://github.com/pixelsbyeryc/pixelsbyeryc/blob/main/soon.svg) | My 2022 Portfolio, coming soon. |
 |📰 [WAGMI Times™](http://mirror.xyz/wagmitimes.eth) | A collectible newspaper covering meme news around the most relevante blockchains (and also solana).|
 |💰 EstimateWorks ![Coming Soon](https://github.com/pixelsbyeryc/pixelsbyeryc/blob/main/soon.svg) | An Open-Source Quote Generator to rapidly calculate how much a job will take.|
