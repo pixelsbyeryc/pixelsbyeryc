@@ -20,6 +20,6 @@ Hello, my name is Eryc — I'm a curious person, passionate about learning, espe
 
 | Find me at |     |
 |:----|:----|
-💾 [Dribbble](https://dribbble.com/pixelsbyeryc) | Some of my work, presented nicely.
 💬 [Twitter](https://twitter.com/pixelsbyeryc) | Insights, thoughts, and...mostly memes.
 📺 [Instagram](https://instagram.com/pixelsbyeryc) | Sometimes I teach, sometimes I ramble.
+💾 [Dribbble](https://dribbble.com/pixelsbyeryc) | _Not Updated_
