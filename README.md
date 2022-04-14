@@ -10,16 +10,18 @@ Hello, my name is Eryc — I'm a curious person, passionate about learning, espe
 
 ---
 
-| Current Projects |      |
-|:-----------------------|:------------------------|
-|📼 FOLIO ‘22 ![Coming Soon](https://github.com/pixelsbyeryc/pixelsbyeryc/blob/main/soon.svg) | My 2022 Portfolio, coming soon. |
-|📰 [WAGMI Times™](http://mirror.xyz/wagmitimes.eth) | A collectible newspaper covering meme news around the most relevante blockchains (and also solana).|
-|🏡 HomeBudget ![Coming Soon](https://github.com/pixelsbyeryc/pixelsbyeryc/blob/main/soon.svg) | Minimalistic bill tracker for those who despise tracking micro transactions.|
-|💰 EstimateWorks ![Coming Soon](https://github.com/pixelsbyeryc/pixelsbyeryc/blob/main/soon.svg) | An Open-Source Quote Generator to rapidly calculate how much a job will take.|
-|📂 VisualizeWorks ![Coming Soon](https://github.com/pixelsbyeryc/pixelsbyeryc/blob/main/soon.svg) | A way to easily visualize your projects.|
+| Current Projects         |        |                           |
+| :----------------------- | :----- | :------------------------ |
+|📼 FOLIO ‘22 | ![Coming Soon](https://badgen.net/badge/icon/Coming%20Soon%20?icon=false&label&color=black) | My 2022 Portfolio, coming soon. |
+|📰 [WAGMI Times™](http://mirror.xyz/wagmitimes.eth) | ![Live](https://badgen.net/badge/icon/Live%20?icon=false&label&color=blue) | A collectible newspaper covering meme news around the most relevante blockchains (and also solana).|
+|⚙️ [Alaska Boilerplate](https://github.com/AlaskaLabs/alaska) | ![Live](https://badgen.net/badge/icon/Live%20?icon=false&label&color=blue) | Static site boilerplate. Using Gulp, PugJS, and Sass.|
+|🎛 [Alaska UI](https://github.com/AlaskaLabs/alaska-ui) | ![Building](https://badgen.net/badge/icon/Building%20?icon=false&label&color=purple) | UI Library with primitives built on Pug (Jade) for static interfaces.|
+|🏡 HomeBudget | ![Coming Soon](https://badgen.net/badge/icon/Coming%20Soon%20?icon=false&label&color=black) | Minimalistic bill tracker for those who despise tracking micro transactions.|
+<!-- |💰 EstimateWorks | ![Coming Soon](https://badgen.net/badge/icon/Coming%20Soon%20?icon=false&label&color=black) | An Open-Source Quote Generator to rapidly calculate how much a job will take.| -->
+<!-- |📂 VisualizeWorks | ![Coming Soon](https://badgen.net/badge/icon/Coming%20Soon%20?icon=false&label&color=black) | A way to easily visualize your projects.| -->
 
 | Find me at |     |
 |:----|:----|
 💬 [Twitter](https://twitter.com/pixelsbyeryc) | Insights, thoughts, and...mostly memes.
 📺 [Instagram](https://instagram.com/pixelsbyeryc) | Sometimes I teach, sometimes I ramble.
-💾 [Dribbble](https://dribbble.com/pixelsbyeryc) | _Not Updated_
+<!-- 💾 [Dribbble](https://dribbble.com/pixelsbyeryc) | _Not Updated_*/ -->
