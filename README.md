@@ -1,5 +1,7 @@
 # ✖︎ MAKING THE WEB LESS BORING ✖︎
 
+![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
+
 Hello, my name is Eryc — I'm a curious person, passionate about learning, especially about how things work, and how people think. I've been working in marketing and tech for the past 7 years, and just recently started to explore blockchain technologies and their future possibilities.
 
 ☞ **I can design** layouts with great UX, typography, and layout skills. 
